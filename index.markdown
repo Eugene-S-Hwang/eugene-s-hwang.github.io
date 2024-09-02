@@ -4,15 +4,15 @@
 
 layout: default
 ---
-__[Resume][resume]__
+# __[Resume][resume]__
 
-__[Politics][politics]__
+# __[Politics][politics]__
 
-__[Competitive Programming][comp]__
+# __[Competitive Programming][comp]__
 
-__[Community Service][comm]__
+# __[Community Service][comm]__
 
-__[School][school]__
+# __[School][school]__
 
 [resume]: https://eugene-s-hwang.github.io/resume/
 [politics]: https://eugene-s-hwang.github.io/politics_projects/
